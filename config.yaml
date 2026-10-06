@@ -1,0 +1,7 @@
+bot:
+  log-channel: ''
+  log-file: ''
+
+cogs:
+  - dice
+  - cataphracts
